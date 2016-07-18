@@ -1,2 +1,2 @@
 # Taller1Mod2Pilas
-Calse de pilas
+Clase de pilas
